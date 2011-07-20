@@ -14,16 +14,16 @@ Files and images regarding 091 Labs logo
 
 == Copyright/License
 
-<tt>GMIT - Energy App Copyright (C) Carles Sentis 2011 carlesentis@gmail.com</tt>
+<tt>091 Labs Logo Copyright (C) 091 Labs 2011 info@091labs.com</tt>
 
-<tt>GMIT - Energy App is free software: you can
+<tt>091 Labs Logo is free software: you can
 redistribute it and/or modify it under the terms
 of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of
 the License, or (at your option) any later
 version.</tt>
 
-<tt>GMIT - Energy App is distributed in the hope that it
+<tt>091 Labs Logo is distributed in the hope that it
 will be useful, but WITHOUT ANY WARRANTY; without
 even the implied warranty of MERCHANTABILITY or
 FITNESS FOR A PARTICULAR PURPOSE. See the GNU

@@ -3,7 +3,7 @@
 
 ## Copyright/License
 
-091 Labs Logo Copyright (c) 091 Labs 2011 <mailto:info@091labs.com>
+091 Labs Logo Copyright (c) 091 Labs 2011 [info@091labs.com](mailto:info@091labs.com)
 
 091 Labs Logo is free software: you can
 redistribute it and/or modify it under the terms
